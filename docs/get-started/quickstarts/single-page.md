@@ -32,7 +32,7 @@ ms.locfileid: "55292796"
 
 ::: zone pivot="windows"
 
-### <a name="prerequisites"></a>系统必备
+### <a name="prerequisites"></a>预备知识
 
 - Visual Studio 2017 （最新版本） 中，使用**使用.NET 的移动开发**安装工作负载。
 - 了解C#。
